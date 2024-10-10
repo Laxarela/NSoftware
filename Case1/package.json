@@ -1,0 +1,16 @@
+{
+  "name": "case1",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start-server": "node server.js -p 52091",
+    "start-client": "node client.js -s localhost -p 52091",
+    "start-both": "npm run start-server && npm run start-client"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@nsoftware/ipworks": "file:../ipworks-24.0"
+  }
+}

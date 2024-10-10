@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@nsoftware/ipworks": "file:ipworks-24.0",
+    "@nsoftware/ipworkszip": "file:ipworkszip-24.0"
+  }
+}

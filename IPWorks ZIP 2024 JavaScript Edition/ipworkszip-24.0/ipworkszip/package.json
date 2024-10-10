@@ -1,0 +1,22 @@
+{
+	"name": "@nsoftware/ipworkszip",
+	"version": "24.0.9045",
+	"description": "IPWorks ZIP",
+	"keywords": [
+		"ipworkszip"],
+	"homepage": "http://www.nsoftware.com",
+	"author": "/n software inc. <sales@nsoftware.com>",
+	"main": "ipworkszip.js",
+	"types": "ipworkszip.d.ts",
+	"engines": {
+		"node": ">=12.20.0"
+	},
+	"bugs": {
+		"email" : "support@nsoftware.com"
+	},
+	"licenses" : [
+	  { "type" : "PROPRIETARY"
+	  , "url" : "http://www.nsoftware.com/company/legal/terms.aspx"
+	  }
+	]
+}
